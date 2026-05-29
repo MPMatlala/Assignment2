@@ -1,12 +1,12 @@
 ﻿using System.Collections;
 
 namespace Assignment2
-{ 
-      public class respond
-    {
-       
+{ //start of namespace
+    public class respond
+    {//start of class
 
-            public respond(ArrayList reply, ArrayList ignore)
+
+        public respond(ArrayList reply, ArrayList ignore)
             {//start of constructor
                 answers(reply);
                 words(ignore);
