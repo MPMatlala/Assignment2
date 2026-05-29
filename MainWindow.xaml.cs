@@ -291,6 +291,6 @@ namespace Assignment2
 
             ChatListBox.ScrollIntoView(
                 ChatListBox.Items[ChatListBox.Items.Count - 1]);
-        }
-    }
-}
+        }//end of error_method
+    }//end of class
+}//end of namespace
