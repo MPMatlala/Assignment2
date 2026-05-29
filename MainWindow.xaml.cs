@@ -237,7 +237,7 @@ namespace Assignment2
         }
 
         // =========================================================
-        // CHAT MESSAGE DISPLAYER
+        // CHAT MESSAGE DISPLAY
         // =========================================================
         private void error_method(string name, string message)
         {
